@@ -1,0 +1,49 @@
+****Student Information****
+===========================
+Contact Info
+	Name: 	Irene McCartney
+	Course: 	Comp Sci Principles
+	Phone:	936-689-7551
+Prior Programming Experience: 
+	Lots of Experice
+Courses Taken: 
+	Algebra 1
+	Geometry
+	Algebra 2
+	Computer Science Fundamentals
+Languages Known: 
+	Java
+	Scratch
+	Python
+****Student Information****
+===========================
+Contact Info
+	Name: 	Katherine McCartney
+	Course: 	Comp Sci Fundamentals
+	Phone:	936-828-1424
+Prior Programming Experience: 
+	Little Experience
+Courses Taken: 
+	Algebra 1
+	Geometry
+	Algebra 2
+Languages Known: 
+	Other
+****Student Information****
+===========================
+Contact Info
+	Name: 	Thomas McCartney
+	Course: 	AP Computer Science
+	Phone:	936-689-7070
+Prior Programming Experience: 
+	Lots of Experice
+Courses Taken: 
+	Algebra 1
+	Geometry
+	Algebra 2
+	Computer Science 1
+	AP Principles
+Languages Known: 
+	Java
+	Python
+	Other

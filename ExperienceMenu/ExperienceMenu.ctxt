@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ExperienceMenu
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ makeCenterRegion()
+comment11.params=
+comment11.target=void\ makeEastRegion()
+comment12.params=
+comment12.target=void\ makeSouthRegion()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ makeMenus()
+comment4.params=
+comment4.target=void\ makeMenuBar()
+comment5.params=
+comment5.target=void\ makeFileMenu()
+comment6.params=
+comment6.target=void\ makeHelpMenu()
+comment7.params=
+comment7.target=void\ makeContent()
+comment8.params=
+comment8.target=void\ makeNorthRegion()
+comment9.params=
+comment9.target=void\ makeWestRegion()
+numComments=13
